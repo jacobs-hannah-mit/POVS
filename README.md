@@ -27,6 +27,10 @@ Execute the following command to list all Docker containers. Note the CONTAINER 
 ```
 docker ps -a
 ```
+or
+```
+docker images
+```
 
 - **For example, you might see an output similar to:**
 
