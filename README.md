@@ -17,7 +17,7 @@ docker pull hnjacobs/python-11-image-hj:v1
 Run the Docker container using the command below. This will start an interactive terminal session within the container:
 
 ```
-docker run -it hnjacobs/python-11-image-hj:v1
+docker run -it hnjacobs/python-11-image-hj:v1 /bin/bash
 ```
 
 ### 3. List All Docker Containers
